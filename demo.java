@@ -1,3 +1,5 @@
 public class A{
-111111
+public static void main(String[] args){
+  
+}
 }
